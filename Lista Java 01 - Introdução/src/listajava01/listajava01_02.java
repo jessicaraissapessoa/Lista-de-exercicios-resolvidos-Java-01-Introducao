@@ -6,21 +6,21 @@ public class listajava01_02 {
 
 	public static void main(String[] args) {
 
-//Lista de Exercícios de Java 01 - Introdução / Básico
+//Lista de ExercÃ­cios de Java 01 - IntroduÃ§Ã£o / BÃ¡sico
 //Professor: Junio Figueiredo
-//Aluna: Jéssica Raissa
+//Aluna: JÃ©ssica Raissa
 		
 Scanner teclado = new Scanner (System.in);
 				
-/* 03. Faça um programa que peça a temperatura em graus Fahrenheit, transforme e mostre em graus Celsius.
+/* 02. FaÃ§a um programa que peÃ§a a temperatura em graus Fahrenheit, transforme e mostre em graus Celsius.
  * C = (F - 32) * 5/9  */
 		
-	System.out.println("Informe a temperatura em graus Farenheit (ºF): ");
+	System.out.println("Informe a temperatura em graus Farenheit (ÂºF): ");
 	float tf = teclado.nextFloat();
 	
 	float tc = ( tf - 32f ) * 5/9f ;
 	
-	System.out.println(tf + "ºF equivale a " + tc + "ºC.");
+	System.out.println(tf + "ÂºF equivale a " + tc + "ÂºC.");
 
 teclado.close();
 
