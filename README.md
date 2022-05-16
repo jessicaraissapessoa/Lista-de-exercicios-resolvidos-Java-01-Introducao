@@ -10,6 +10,7 @@
 - System.out.println
 - Scanner (teclado)
 - Operações aritméticas
+- Variáveis do tipo: int, float, double
 - Conversão de tipo de variável (double para int)
 - DecimalFormat
 
