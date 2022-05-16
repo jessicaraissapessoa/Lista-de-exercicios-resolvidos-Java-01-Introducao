@@ -8,7 +8,7 @@
 #### Temas abordados:
 
 - System.out.println
-- Scanner (teclado)
+- Scanner (entrada: teclado)
 - Operações aritméticas
 - Variáveis do tipo: int, float, double
 - Conversão de tipo de variável (double para int)
