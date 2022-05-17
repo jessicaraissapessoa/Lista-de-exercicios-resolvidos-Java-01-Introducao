@@ -7,14 +7,14 @@ public class listajava01_04 {
 
 	public static void main(String[] args) {
 
-//Lista de ExercÌcios de Java 01 - IntroduÁ„o / B·sico
+//Lista de Exerc√≠cios de Java 01 - Introdu√ß√£o / B√°sico
 //Professor: Junio Figueiredo
-//Aluna: JÈssica Raissa
+//Aluna: J√©ssica Raissa
 		
 Scanner teclado = new Scanner (System.in);
 				
-/* 04. A Loja Mam„o com AÁucar est· vendendo seus produtos em 5 (cinco) prestaÁıes sem juros.
- * FaÁa um algoritmo que receba um valor de uma compra e mostre o valor das prestaÁıes. */
+/* 04. A Loja Mam√£o com A√ß√∫car est√° vendendo seus produtos em 5 (cinco) presta√ß√µes sem juros.
+ * Fa√ßa um algoritmo que receba um valor de uma compra e mostre o valor das presta√ß√µes. */
 	
 	DecimalFormat reais = new DecimalFormat ("R$ ##0.00");
 	
@@ -26,7 +26,7 @@ Scanner teclado = new Scanner (System.in);
 	
 	double valorparcelas = totalcompra / parcelas;
 	
-	System.out.println("Sua compra, no valor de " + reais.format(totalcompra) + ", ser· dividida em " + parcelas + " parcelas de " + reais.format(valorparcelas) );
+	System.out.println("Sua compra, no valor de " + reais.format(totalcompra) + ", ser√° dividida em " + parcelas + " parcelas de " + reais.format(valorparcelas) );
 
 teclado.close();
 
