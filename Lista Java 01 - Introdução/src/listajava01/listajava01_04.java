@@ -8,8 +8,8 @@ public class listajava01_04 {
 	public static void main(String[] args) {
 
 //Lista de Exercícios de Java 01 - Introdução / Básico
-//Professor: Junio Figueiredo
-//Aluna: Jéssica Raissa
+//Organizador / Professor: Junio Figueiredo
+//Revisora / Diagramadora / Aluna: Jéssica Raissa Pessoa
 		
 Scanner teclado = new Scanner (System.in);
 				
