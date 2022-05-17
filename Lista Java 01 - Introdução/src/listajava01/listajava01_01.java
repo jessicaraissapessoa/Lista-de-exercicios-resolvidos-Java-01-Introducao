@@ -6,17 +6,17 @@ public class listajava01_01 {
 
 	public static void main(String[] args) {
 
-//Lista de Exercícios de Java 01 - Introdução / Básico
-//Professor: Junio Figueiredo
-//Aluna: Jéssica Raissa
+//Lista de ExercÃ­cios de Java 01 - IntroduÃ§Ã£o / BÃ¡sico
+//Organizador / Professor: Junio Figueiredo
+//Revisora / Diagramadora / Aluna: JÃ©ssica Raissa Pessoa
 		
 Scanner teclado = new Scanner (System.in);
 				
-/* 01. Faça um algoritmo que receba dois números e ao final mostre a adição, subtração, multiplicação e divisão dos numeros lidos. */
+/* 01. FaÃ§a um algoritmo que receba dois nÃºmeros e ao final mostre a adiÃ§Ã£o, subtraÃ§Ã£o, multiplicaÃ§Ã£o e divisÃ£o dos numeros lidos. */
 		
-	System.out.println("Informe o primeiro número: ");
+	System.out.println("Informe o primeiro nÃºmero: ");
 	float n1 = teclado.nextFloat();
-	System.out.println("Informe o segundo número: ");
+	System.out.println("Informe o segundo nÃºmero: ");
 	float n2 = teclado.nextFloat();
 	
 	float adicao = n1 + n2;
