@@ -23,7 +23,7 @@
 
 #### Questões:
 
-- 01 - Faça um algoritmo que receba dois números e ao final mostre a adição, subtração, multiplicação e divisão dos numeros lidos.
+- 01 - Faça um algoritmo que receba dois números e ao final mostre a adição, subtração, multiplicação e divisão dos números lidos.
 - 02 - Faça um programa que peça a temperatura em graus Fahrenheit, transforme e mostre em graus Celsius. <br> C = (F - 32) * 5/9
 - 03 - Faça um programa que peça a temperatura em graus Celsius, transforme e mostre a temperatura em graus Farenheit. <br> F = (C * 9/5) + 32
 - 04 - A Loja Mamão com Açucar está vendendo seus produtos em 5 (cinco) prestações sem juros. <br> Faça um algoritmo que receba um valor de uma compra e mostre o valor das prestações.
