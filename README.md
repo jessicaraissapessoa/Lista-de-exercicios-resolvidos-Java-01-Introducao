@@ -5,8 +5,8 @@
 
 ##
 
-- Professor: Junio Figueiredo
-- Aluna: Jéssica Raissa
+- Organizador / Professor: Junio Figueiredo
+- Revisora / Diagramadora / Aluna: Jéssica Raissa Pessoa
 
 ##
 
