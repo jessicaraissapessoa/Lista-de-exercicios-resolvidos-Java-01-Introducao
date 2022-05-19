@@ -5,6 +5,11 @@
 
 ##
 
+- Professor: Junio Figueiredo
+- Aluna: Jéssica Raissa
+
+##
+
 #### Temas abordados:
 
 - System.out.println
@@ -13,11 +18,6 @@
 - Variáveis do tipo: int, float, double
 - Conversão de tipo de variável (double para int)
 - DecimalFormat
-
-##
-
-- Professor: Junio Figueiredo
-- Aluna: Jéssica Raissa
 
 ##
 
