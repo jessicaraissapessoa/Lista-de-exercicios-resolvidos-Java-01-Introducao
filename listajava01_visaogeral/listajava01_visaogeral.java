@@ -1,4 +1,4 @@
-package listajava02_visaogeral;
+package listajava01_visaogeral;
 
 import java.text.DecimalFormat;
 import java.util.Scanner;
